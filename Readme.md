@@ -1,6 +1,6 @@
-#Reverse Engineering
+# Reverse Engineering
 
-##Introduction
+## Introduction
 
 Welcome to the Reverse Engineering Repository!
 
@@ -9,7 +9,7 @@ This repository serves as a resource hub, not only for my **private course** on 
 
 Let’s unlock the mysteries together!
 
-##How to Start Learning Reverse Engineering
+## How to Start Learning Reverse Engineering
 
 Ready to dive into the exciting world of reverse engineering? Here's a quick guide to get you started. By following these steps, you'll learn the basics, solve puzzles, and earn the secret key that will unlock your flag!
 1. Find Hidden Strings
