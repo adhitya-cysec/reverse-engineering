@@ -7,9 +7,6 @@ This challenge can be easily analyzed using tools like IDA Free, Binary Ninja, o
 The purpose is not to get the flag, but to understand the logic, debug it, and get the secret-key.
 
 How to run:
-`
-chmod +x crackme01                           # 02, 03, 0x etc
-`
-`
-./crackme01 put-the-secret-key
-`
+`chmod +x crackme01                           # 02, 03, 0x etc`
+
+`./crackme01 put-the-secret-key`
