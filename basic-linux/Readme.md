@@ -8,6 +8,8 @@ The purpose is not to get the flag, but to understand the logic, debug it, and g
 
 How to run:
 
-`chmod +x crackme01                           # 02, 03, 0x etc`
+```
+chmod +x crackme01                           # 02, 03, 0x etc
 
-`./crackme01 put-the-secret-key`
+./crackme01 put-the-secret-key
+```
